@@ -14,7 +14,7 @@ int main(){
 	}
 	c=median(b,a);
 	cout<<"Median = "<<c;
-	
+	getch();
 	return 0;
 }
 
